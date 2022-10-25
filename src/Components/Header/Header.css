@@ -40,7 +40,6 @@ header {
 
 .header_nav a:hover{
     color: #40c7df;
-    margin-bottom: 4px solid #73CCA8;
     cursor: pointer;
     transition: 0.5s;
 }
