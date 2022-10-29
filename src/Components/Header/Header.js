@@ -9,7 +9,7 @@ function Header(){
             <div class = "header_nav" id = "myTopnav">
                 <a href="#home"> Home</a>
                 <a href="#Experience"> Experience</a>
-                <a> Awards</a>
+                <a href="#Awards"> Awards</a>
                 <a> Articles</a>
                 <a> Certifications</a>
                 <a> Contact</a>
